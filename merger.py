@@ -2,7 +2,7 @@
 
 import os
 
-merged_name = "main123.css"
+merged_name = "main.css"
 
 def mergeCssFiles():
 	conf = open("source.txt").read().split('\n')
